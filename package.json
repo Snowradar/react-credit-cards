@@ -1,26 +1,15 @@
 {
-  "name": "react-credit-cards",
-  "version": "0.8.3",
-  "description": "Beautiful credit cards for your payment forms",
-  "author": "AMARO Fashion <tech@amaro.com>",
-  "contributors": [
-    {
-      "name": "Cassio Cardoso",
-      "email": "cassio.cardoso@amaro.com"
-    },
-    {
-      "name": "Gil Barbara",
-      "email": "gil.barbara@amaro.com"
-    }
-  ],
+  "name": "@snowpak/react-credit-cards",
+  "version": "1.0.0",
+  "description": "Fork of react-credit-cards v0.8.3 with support for React 17",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/amarofashion/react-credit-cards.git"
+    "url": "git+https://github.com/Snowradar/react-credit-cards.git"
   },
   "bugs": {
-    "url": "https://github.com/amarofashion/react-credit-cards/issues"
+    "url": "https://github.com/Snowradar/react-credit-cards/pulls"
   },
-  "homepage": "https://github.com/amarofashion/react-credit-cards#readme",
+  "homepage": "https://github.com/Snowradar/react-credit-cards/blob/master/README.md",
   "license": "MIT",
   "main": "lib/index.js",
   "module": "es/index.js",
